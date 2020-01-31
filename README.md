@@ -1,2 +1,2 @@
 # Discriminant-Function-Analysis
-Fake data is used for the purpose of this analysis
+(I simulated the data in this project)
